@@ -1,5 +1,5 @@
 # 内容：Custom
 # 数量：1条
 USER-AGENT,Custom*
-DOMAIN-SUFFIX,,manhuagui.com
-DOMAIN-SUFFIX,,tw.manhuagui.com
+DOMAIN-SUFFIX,manhuagui.com
+
