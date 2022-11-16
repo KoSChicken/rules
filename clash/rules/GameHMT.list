@@ -2,3 +2,13 @@
 USER-AGENT,GameHMT*
 DOMAIN-KEYWORD,nexon.io
 DOMAIN-KEYWORD,nexon.com
+DOMAIN,sdk-os-static.hoyoverse.com
+DOMAIN,log-upload-os.hoyoverse.com
+DOMAIN,minor-api-os.hoyoverse.com
+DOMAIN,sg-public-data-api.hoyoverse.com
+DOMAIN,hk4e-sdk-os.hoyoverse.com
+DOMAIN,hk4e-sdk-os-static.hoyoverse.com
+DOMAIN,oseurodispatch.yuanshen.com
+DOMAIN,osasiadispatch.yuanshen.com
+DOMAIN,osusadispatch.yuanshen.com
+DOMAIN,dispatchosglobal.yuanshen.com
