@@ -1,16 +1,10 @@
 # 内容：GameHMT
 USER-AGENT,GameHMT*
-DOMAIN-KEYWORD,nexon.io
-DOMAIN-KEYWORD,nexon.com
-DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
-DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
-DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
-DOMAIN-SUFFIX,hk4e-sdk-os.hoyoverse.com
-DOMAIN-SUFFIX,hk4e-sdk-os-static.hoyoverse.com
-DOMAIN-SUFFIX,webstatic.hoyoverse.com
-DOMAIN-SUFFIX,oseurodispatch.yuanshen.com
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,hoyoverse.com
 DOMAIN-SUFFIX,osasiadispatch.yuanshen.com
+DOMAIN-SUFFIX,oseurodispatch.yuanshen.com
 DOMAIN-SUFFIX,osusadispatch.yuanshen.com
 DOMAIN-SUFFIX,dispatchosglobal.yuanshen.com
 DOMAIN-SUFFIX,api-pc.so-net.tw
