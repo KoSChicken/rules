@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,moises.ai
 DOMAIN-SUFFIX,pcrdfans.com
-DOMAIN-SUFFIX,ps5.np.playstation.net
+# DOMAIN-SUFFIX,ps5.np.playstation.net
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,services.googleapis.cn
