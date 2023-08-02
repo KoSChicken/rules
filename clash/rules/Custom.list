@@ -2,6 +2,9 @@
 USER-AGENT,Custom*
 DOMAIN-KEYWORD,manhuagui
 DOMAIN-KEYWORD,hamreus.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,jmcomic.vip
