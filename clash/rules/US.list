@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,grazie
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN,cdn.oaistatic.com
 DOMAIN,oaistatic.com
