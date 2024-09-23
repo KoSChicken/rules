@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,addons.mozilla.org
+DOMAIN-SUFFIX,cdn.mozilla.net
 DOMAIN,dl.tailscale.com
 DOMAIN-SUFFIX,nembriniaudio.com
 DOMAIN,my.t4tv.hz.cz
