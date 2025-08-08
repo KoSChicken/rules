@@ -1,0 +1,5 @@
+DOMAIN,download.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,dcg.microsoft.com
