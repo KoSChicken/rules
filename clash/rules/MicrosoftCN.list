@@ -77,3 +77,7 @@ DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,dcg.microsoft.com
+DOMAIN-SUFFIX,manage.microsoft.com
+DOMAIN-SUFFIX,delivery.microsoft.com
+DOMAIN,d2.xboxlive.com
+DOMAIN,fg.microsoft.map.fastly.net
